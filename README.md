@@ -25,5 +25,8 @@ Messy datasets, incomplete records, and operational inefficiencies—before gene
 📊 Various Metrics (Total Sales, Avg Sales, No. of Items & Avg Ratings) & Item Visibility By Outlet Type. 
 📊 Total Sales By Outlet Establishment Year, Outlet Size & Outlet Location.
 💻 Tech Stack Used: Power BI | Excel | MySQL
-🎥 Final Output: Check out my interactive Power BI dashboard in the screen recording to explore these insights in action!
+
+**🎥 Final Output: **
+Check out my interactive Power BI dashboard.
+
 🚀 Data-driven decision-making is shaping the future of e-commerce, and I’m thrilled to contribute through this analysis!
